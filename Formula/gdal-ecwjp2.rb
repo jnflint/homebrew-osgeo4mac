@@ -1,4 +1,4 @@
-ECWJP2_SDK = "/Intergraph/ERDASEcwJpeg2000SDK5.1.1/Desktop_Read-Only"
+ECWJP2_SDK = "/Hexagon/ERDASEcwJpeg2000SDK5.2.1/Desktop_Read-Only"
 
 class EcwJp2Sdk < Requirement
   fatal true
